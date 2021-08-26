@@ -1,4 +1,4 @@
-# Bulk_File_Renaming_App
+# Bulk_File_Renaming
 The simple app to Respectively change name and format all file in the operating system
 # How Work
 #### First fill the input to choose Path files --> (Enter The Path of Your files: ) for example: 
