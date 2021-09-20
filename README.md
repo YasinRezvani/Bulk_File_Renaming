@@ -1,5 +1,5 @@
 # Bulk_File_Renaming
-The simple app to Respectively change name and format all file in the operating system
+The simple CLI app to respectively change name and format all file in the operating system
 # How Work
 #### First fill the input to choose Path files --> (Enter The Path of Your files: ) for example: 
 > C:/Users/yasin/Documents/test
